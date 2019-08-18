@@ -146,5 +146,5 @@ div .paragraph{
     margin: 30px;
 }
 .latin{
-    direction: ltr;
+    direction: ltr !important;
 }
